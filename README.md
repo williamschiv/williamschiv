@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a Computer Software Development student with an interest in web development, problem solving, and exploring different technologies.
+
 <!--
 **williamschiv/williamschiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
